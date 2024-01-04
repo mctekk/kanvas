@@ -1,8 +1,6 @@
-# [Kanvas Niche](https://github.com/bakaphp)
-
 <br />
 <p align="center">
-    <img  src="https://kanvas.dev/images/kanvasL.svg" alt="Kanvas Logo" width="200" height="24"></a>
+    <a href="https://kanvas.dev/"><img  src="https://kanvas.dev/images/kanvasL.svg" alt="Kanvas Logo" width="200" height="24"></a>
     <br />
     <br />
 </p>
